@@ -9,4 +9,4 @@ This project was designed and developed by **Suhad Shaheen** as part of the Fron
 
 ## Notes
 - Each page has its own CSS file as required.
-- Login and Sign Up pages share similar styles but have separate CSS files to follow project guidelines.
+- Login and Sign Up pages share similar styles but have separate CSS files to follow project Requirements.

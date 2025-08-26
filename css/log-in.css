@@ -57,7 +57,7 @@
         flex-direction: column;
     }
 
-    .hero-image, .signup-form {
-        max-width: 100%;
-    }
+  .hero-image, .login-form {
+    max-width: 100%;
+}
 }

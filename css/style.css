@@ -19,3 +19,37 @@
 .cta-button:hover {
     background-color: #003355;
 }
+
+.nav{
+    background-color: #004466;
+}
+.nav-menu {
+    display: flex;
+    justify-content: center;
+    padding: 1rem 0;
+    background-color: #004466;
+    list-style: none;
+
+}
+.nav-link {
+    color: #fff;
+    text-decoration: none;
+    padding: 0.5rem 1rem;
+    border-radius: 5px;
+}
+.nav-link:hover {
+    color: #9bbecf;
+}
+footer {
+    background: #004466;
+    color: white;
+    padding: 2rem 0;
+    text-align: center;
+}
+@media (max-width: 768px) {
+      .nav-menu {
+        flex-wrap: wrap; 
+        justify-content: center;
+        gap: 0.5rem;
+   }
+}
